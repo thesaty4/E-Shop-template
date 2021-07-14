@@ -1,4 +1,4 @@
-# Ludus Free Premium E-commerce Template
+# Ludus E-commerce Template
 
 *I want to thank all of you who give stars and fork the repo. I love you all and I have no words in my heart.*
 
@@ -485,6 +485,3 @@ Following you'll find a list of all Ludus theme Template releases with a log of 
 
 
 
-
-## Version
-Version 1.0.0 - Feburary 2019 Initial Template Release
